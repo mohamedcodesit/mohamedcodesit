@@ -19,7 +19,7 @@ Sto costruendo il mio percorso passo dopo passo con progetti reali e studio cont
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️Competenze Tecniche
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
@@ -30,7 +30,7 @@ Sto costruendo il mio percorso passo dopo passo con progetti reali e studio cont
 
 ---
 
-## 📚 Currently Learning
+## 📚Attualmente Sto Studiando
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
@@ -44,7 +44,7 @@ Sto costruendo il mio percorso passo dopo passo con progetti reali e studio cont
 
 ---
 
-## 🌐 Contact Me
+## 🌐  Contatti
 
 📧 Email: <a href="mailto:mohamed.codes.it@email.com">mohamed.codes.it@email.com</a>
 
