@@ -54,8 +54,6 @@ Sto costruendo il mio percorso passo dopo passo con progetti reali e studio cont
 
 🎵 TikTok: https://tiktok.com/@mohamed20.10.20060  
 
-💻 GitHub: https://github.com/TUO_USERNAME  
-
 ---
 
 ## ⚡ Goals
